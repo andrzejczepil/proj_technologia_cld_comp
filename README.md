@@ -9,4 +9,5 @@ start aplikacji:
 
 Perequisites: 
 0. trzeba mieć zainstalowanego node.js
+
 Install [Node.js](https://nodejs.org/en/) and ensure that the root folder of its installation is added to your PATH. You can check with this command: echo %PATH% (or echo $PATH on Linux / Git Bash).
